@@ -1,2 +1,2 @@
-# Transcendance
-The official github repository for the Transcendance minecraft mod
+# Transcendence
+The official github repository for the Transcendence minecraft mod
