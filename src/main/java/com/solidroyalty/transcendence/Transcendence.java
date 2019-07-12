@@ -1,4 +1,4 @@
-package com.transcendence;
+package com.solidroyalty.transcendence;
 
 import net.minecraftforge.fml.common.Mod;
 

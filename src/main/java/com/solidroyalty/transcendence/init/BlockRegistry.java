@@ -1,7 +1,7 @@
-package com.transcendence.init;
+package com.solidroyalty.transcendence.init;
 
-import com.transcendence.Constants;
-import com.transcendence.blocks.TranscendingTableBlock;
+import com.solidroyalty.transcendence.Constants;
+import com.solidroyalty.transcendence.blocks.TranscendingTableBlock;
 import net.minecraft.block.Block;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

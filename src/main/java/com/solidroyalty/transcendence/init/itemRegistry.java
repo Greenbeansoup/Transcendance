@@ -1,6 +1,6 @@
-package com.transcendence.init;
+package com.solidroyalty.transcendence.init;
 
-import com.transcendence.Constants;
+import com.solidroyalty.transcendence.Constants;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
